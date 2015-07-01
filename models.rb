@@ -14,5 +14,5 @@ class Post < ActiveRecord::Base
 end
 
 class Friend < ActiveRecord::Base
-  
+
 end
