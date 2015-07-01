@@ -15,6 +15,7 @@ get '/profile' do
   erb :profile
 end
 
+profile[:user_id]=
 
 
 
